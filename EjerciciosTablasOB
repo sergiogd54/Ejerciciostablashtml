@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head><title> Ejercicio 02/2 - Tablas en HTML</title></head>
+    <BODY>
+        <H2>Libros y autores favoritos</H2>
+    <table>
+        <tr>
+        <th> TITULO</th>
+        <th> AUTOR</th>
+        <th> AÑO DE PUBLICACION</th>
+        <th> Enlace a Amazon</th>
+        
+    </tr>
+    <tr>
+        <td> Rayuela </td>
+        <td> Julio Cortazar </td>
+        <td> 18/02/1963 </td>
+        <td><a href="https://amazon.com/Rayuela-Spanish-Julio-Cortazar/dp/8466319050">Rayuela</a></td>
+        
+    
+    </tr>
+    <tr>
+        <tr>
+            <td> Ficciones </td>
+            <td> Jorge Luis Borges </td>
+            <td> 29/03/1944 </td>
+            <td><a href="https://amazon.com/Collected-Fictions-Jorge-Luis-Borges/dp/0140286802/ref=sr_1_1?crid=HSG0S6A7RQ74&keywords=jorge+luis+borges&qid=1664459308&qu=eyJxc2MiOiI0LjUwIiwicXNhIjoiNC4yOSIsInFzcCI6IjQuMjkifQ%3D%3D&s=books&sprefix=borges%2Cstripbooks-intl-ship%2C456&sr=1-1">Ficciones</a></td>
+            
+        
+        </tr>
+        
+        
+        
+        <td> La casa Argentina en París </td>
+        <td> Carlos Saul Menem </td>
+        <td> 25/03/1998 </td>
+        <td><a href= " https://amazon.com/-/es/Carlos-Saul-Menem/dp/B00AH058SC/ref=sr_1_2?qid=1664459499&refinements=p_27%3ACarlos+Saul+Menem&s=books&sr=1-2">La casa Argentina en París</a>  </td>
+    </tr>
+</table>
+    
+    
+    </BODY>
+    
+</html>
